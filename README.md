@@ -43,4 +43,7 @@ A high-performance, cinematic Iron Man-themed portfolio and UI built with **Next
    Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Built By
-- **Rajan**
+- **Rajan V**
+
+## GitHub Link
+[https://github.com/rajanvenkat321-sudo/iron-man](https://github.com/rajanvenkat321-sudo/iron-man)
